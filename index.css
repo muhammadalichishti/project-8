@@ -1,16 +1,16 @@
 @font-face {
     font-family: "segoe-ui";
-    src: url('segoe-ui.ttf')
+    src: url('assets/segoe-ui.ttf')
 }
 
 @font-face {
     font-family: "arial-black";
-    src: url('arial-black.ttf')
+    src: url('assets/arial-black.ttf')
 }
 
 @font-face {
     font-family: "calibri";
-    src: url('calibri.ttf')
+    src: url('assets/calibri.ttf')
 }
 
 * {

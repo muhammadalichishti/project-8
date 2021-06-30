@@ -219,13 +219,13 @@ textarea {
 @media (orientation: landscape) {
     body {
         background-position: center bottom;
-        background-image: url('desktop-bg.jpg');
+        background-image: url('assets/desktop-bg.jpg');
     }
 }
 
 @media (orientation: portrait) {
     body {
-        background-image: url('desktop-bg-portrait.jpg');
+        background-image: url('assets/desktop-bg-portrait.jpg');
     }
 }
 
