@@ -1,4 +1,4 @@
-# Project 8 <br /> (Started From 31 May 2020 and Ended to June 4 2020)
+# <center>Project 8</center><br /> (Started From 31 May 2020 and Ended to June 4 2020)
 # Windows 11
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
