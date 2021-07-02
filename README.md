@@ -1,4 +1,4 @@
-# Project 8 (Started From 31 May 2020 and Ended to June 4 2020)
+# Project 8 <br /> (Started From 31 May 2020 and Ended to June 4 2020)
 # Windows 11
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -51,7 +51,7 @@ Note:I want to develop Graphical User Interface of all Microsoft Windows (Window
       <p align="center">
       <img src="./Readme Pictures/Windows 11 (4).PNG" title="About Window" alt="About Window Picture" />
       <br />
-      About Window
+      About Windows
       </p>
     </td>
    </tr>
