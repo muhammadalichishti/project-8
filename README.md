@@ -1,11 +1,11 @@
-# <center>Project 8</center><br /> (Started From 31 May 2020 and Ended to June 4 2020)
+# Project 8 <br /> (Started From 31 May 2021 and Ended to June 4 2021)
 # Windows 11
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 It is a replication of the new Windows 11 (GUI) made by using only Html, Css and Java. All rights reserved to <a href="https://www.microsoft.com/en-in">Microsoft&reg;</a>
 
-Note:I want to develop Graphical User Interface of all Microsoft Windows (Windows XP, 7, 10 and 11). I'll not develop the GUI of Windows 8 because I don't like it. My next Project will be Windows 10 GUI.
+Note: I want to develop Graphical User Interface of all Microsoft Windows (Windows XP, 7, 10 and 11). I'll not develop the GUI of Windows 8 because I don't like it. My next Project will be Windows 10 GUI.
 
 ## Features
 
